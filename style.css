@@ -25,6 +25,27 @@ body {
   text-align: center;
   box-shadow: 0 10px 25px rgba(0,0,0,0.15);
 }
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    h1, h2, h3 {
+        font-size: 18px;
+    }
+
+    button {
+        width: 100%;
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    img {
+        width: 100%;
+        max-width: 200px;
+    }
+}
 
 /* TITLE */
 h1 {
