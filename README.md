@@ -3,7 +3,7 @@
 A quiz website to help you practice road signs and rules.
 
 ## Features
-- Road signs quiz
+- Road signs and road rules quiz
 - Timer
 - Instant feedback
 
