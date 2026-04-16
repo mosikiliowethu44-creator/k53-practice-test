@@ -126,9 +126,9 @@ function loadQuestion() {
   progressEl.innerText = `Question ${currentIndex + 1} of ${questions.length}`;
 
   if (currentQuestion.image) {
-    questionEl.innerHTML = `
-      <img src="${currentQuestion.image}" width="150"><br>
-      ${currentQuestion.question}
+questionEl.innerHTML = `
+  <img src="${currentQuestion.image}" width="200" style="border: 2px solid red;">
+  <p>${currentQuestion.question}</p>
     `;
   } else {
     questionEl.innerText = currentQuestion.question;
