@@ -1,4 +1,4 @@
-# K53 Practice Test 🚗
+# K53 Practice Test
 
 A quiz website to help you practice road signs and rules.
 
