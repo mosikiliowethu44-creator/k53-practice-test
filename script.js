@@ -17,31 +17,31 @@ let roadSignsQuestions = [
   { question: "What does a stop ahead sign warn?", options: ["Traffic light","Stop sign ahead","Pedestrian crossing","Railway"], answer: "Stop sign ahead" },
   { question: "What does a sharp bend sign warn?", options: ["Straight road","Curve ahead","Stop","Parking"], answer: "Curve ahead" },
   { question: "What sign is this?",
-    image: "images/stop.png",
+    image: "stop.png",
     options: ["Yield", "Stop", "No entry", "Parking"],
     answer: "Stop"
   },
   {
     question: "What sign is this?",
-    image: "images/noentry.png",
+    image: "noentry.png",
     options: ["No entry", "Stop", "Parking", "Yield"],
     answer: "No entry"
   },
   {
     question: "What sign is this?",
-    image: "images/pedestrian.png",
+    image: "pedestrian.png",
     options: ["School", "Watch for pedestrians", "Stop", "Speed up"],
     answer: "Watch for pedestrians"
   },
   {
     question: "What sign is this?",
-    image: "images/railway.png",
+    image: "railway.png",
     options: ["Railway crossing ahead", "Bus stop", "Parking", "No entry"],
     answer: "Railway crossing ahead"
   },
   {
     question: "What sign is this?",
-    image: "images/speed60.png",
+    image: "speed60.png",
     options: ["Speed limit 60", "Minimum speed", "Stop", "No entry"],
     answer: "Speed limit 60"
   }
